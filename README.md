@@ -4,11 +4,11 @@ I am a beginner in the field of AI intelligences and reinforcement learning, and
 
 ### Introduction to folder directory
 There are a total of four folders:
-* Code
+* Code *
 All my attempt code files are here
-* Document
+* Document *
 Some of my record documents
-* Figure
+* Figure *
 A code file that attempts to draw and describe the depicted data
-* Environment:
+* Environment *
 The environment I used during the experiment.
